@@ -83,8 +83,8 @@ Python · FastAPI · asyncio · Redis Streams · Supabase (Postgres, Auth, Realt
 
 ## Outros cases
 
-- [E-commerce da 4Life Nutrition](https://github.com/Dowgg18/4life-nutrition-showcase): loja com código próprio, do checkout à nota fiscal.
-- [Creator Army da 4Life](https://github.com/Dowgg18/4life-creators-showcase): programa de influenciadores com cupom e comissão apurada sozinha.
+- [E-commerce da 4Life Nutrition](https://github.com/domingos-engineering/4life-nutrition-showcase): loja com código próprio, do checkout à nota fiscal.
+- [Creator Army da 4Life](https://github.com/domingos-engineering/4life-creators-showcase): programa de influenciadores com cupom e comissão apurada sozinha.
 - [Câmara Brasil-Rússia](https://github.com/Dowgg18/camara-brasil-russia-showcase): portal em português, russo e inglês com redação assistida por IA.
 
 ---
